@@ -28,7 +28,7 @@ A simple project that demonstrates how to control a 7-segment display using an A
 ## 📐 Circuit Diagram
 
 <!-- Replace with your own Tinkercad circuit screenshot -->
-![Circuit Diagram](<img width="1517" height="637" alt="image" src="https://github.com/user-attachments/assets/ef093201-9aa2-42b7-ab4c-dde6f9e02b6d" />
+![Circuit Diagram](https://github.com/user-attachments/assets/ef093201-9aa2-42b7-ab4c-dde6f9e02b6d
 )
 
 
