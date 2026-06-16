@@ -7,7 +7,7 @@ A simple project that demonstrates how to control a 7-segment display using an A
 ## 📸 Demo
 
 <!-- Replace with your actual screenshot or GIF from Tinkercad -->
-![7-Segment Display Demo](<img width="1517" height="637" alt="Screenshot 2026-06-16 214438" src="https://github.com/user-attachments/assets/9c4f3a7b-e835-4362-8053-62420d55d092" />
+![7-Segment Display Demo](https://github.com/user-attachments/assets/9c4f3a7b-e835-4362-8053-62420d55d092
 )
 
 ---
@@ -73,6 +73,3 @@ Or upload the code to a real Arduino:
 
 ---
 
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
